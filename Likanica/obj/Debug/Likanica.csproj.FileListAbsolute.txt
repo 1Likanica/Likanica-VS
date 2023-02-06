@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\Likanica\bin\Debug\Likanica.exe.config
+C:\Users\Student\source\repos\Likanica\bin\Debug\Likanica.exe
+C:\Users\Student\source\repos\Likanica\bin\Debug\Likanica.pdb
+C:\Users\Student\source\repos\Likanica\obj\Debug\Likanica.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Likanica\obj\Debug\Likanica.Form1.resources
+C:\Users\Student\source\repos\Likanica\obj\Debug\Likanica.Properties.Resources.resources
+C:\Users\Student\source\repos\Likanica\obj\Debug\Likanica.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Likanica\obj\Debug\Likanica.exe
+C:\Users\Student\source\repos\Likanica\obj\Debug\Likanica.pdb
